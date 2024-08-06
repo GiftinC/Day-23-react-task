@@ -1,0 +1,19 @@
+p {
+  color: black;
+  background-color: inherit;
+  margin: 5px;
+  font-size: small;
+}
+
+button {
+  color: white;
+  margin: 8px;
+  align-items: flex-end;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  background-color: lightgreen;
+  margin-top: 30px;
+}
