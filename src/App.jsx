@@ -4,9 +4,9 @@ import './App.css'
 import { v4 } from 'uuid';
 import Display from './Components/Display';
 
-const initialDetails = [{ "name": "Office Task-1", "description": "This is the description for My First Class", "id": "379b2914-6acf-40bf-a0c8-6eda97014358" },
-{ "name": "Office Task-2", "description": "This is the description for My Second Class", "id": "ac9bd046-fa6a-4832-b046-5da599206afd" },
-{ "name": "Office Task-3", "description": "This is the description for My Third Class", "id": "45238d8d-a99d-43a7-851a-fc095523ec43" }]
+const initialDetails = [{ "name": "Office Task-1", "description": "This is the description for My First Task", "id": "379b2914-6acf-40bf-a0c8-6eda97014358" },
+{ "name": "Office Task-2", "description": "This is the description for My Second Task", "id": "ac9bd046-fa6a-4832-b046-5da599206afd" },
+{ "name": "Office Task-3", "description": "This is the description for My Third Task", "id": "45238d8d-a99d-43a7-851a-fc095523ec43" }]
 
 function App() {
 
